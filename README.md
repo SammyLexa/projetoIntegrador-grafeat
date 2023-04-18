@@ -50,25 +50,43 @@ WIKIPEDIA (Brasil) (comp.). Objetivo de Desenvolvimento Sustentável 10. Dispon�
 MARCELO NERI (Brasil). Mapa da Nova Pobreza. Disponível em: https://cps.fgv.br/MapaNovaPobreza. Acesso em: 29 mar. 2023.
 
 
-## Funcionalidades: CRUD (Create ![icons8-mais-2-matemática-24](https://user-images.githubusercontent.com/123910027/228411941-5a88ac9e-160e-4e6c-8304-9dd0497acb1e.png), Read ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png), Update![icons8-atualizações-disponíveis-24](https://user-images.githubusercontent.com/123910027/228412118-d6345474-4c4f-42b6-b0e4-74ec7eb82fa6.png), Delete ![icons8-apagar-para-sempre-24](https://user-images.githubusercontent.com/123910027/228412529-99f70eef-faa4-47c5-b10e-74e0c564f1d1.png))
-- Cadastra Produto ![icons8-mais-2-matemática-24](https://user-images.githubusercontent.com/123910027/228411941-5a88ac9e-160e-4e6c-8304-9dd0497acb1e.png)
-- Cadastra Categoria ![icons8-mais-2-matemática-24](https://user-images.githubusercontent.com/123910027/228411941-5a88ac9e-160e-4e6c-8304-9dd0497acb1e.png)
-- Cadastra Vendedor![icons8-mais-2-matemática-24](https://user-images.githubusercontent.com/123910027/228411941-5a88ac9e-160e-4e6c-8304-9dd0497acb1e.png)
-- Consulta por ID de Produto ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png)
-- Consulta por ID de Categoria ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png)
-- Consulta por ID de Vendedor ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png)
-- Consulta por Nome de Produto ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png)
-- Consulta por Descrição de Produto ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png)
-- Consulta por Nome de Categoria ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png)
-- Consulta Todos os Produtos ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png)
-- Consulta Todas as Categorias ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png)
-- Consulta Todos os Vendedores ![icons8-leitura-24](https://user-images.githubusercontent.com/123910027/228411621-cc2f1a2b-640c-4dbf-aedd-bdc205167486.png)
-- Atualiza Produto ![icons8-atualizações-disponíveis-24](https://user-images.githubusercontent.com/123910027/228412118-d6345474-4c4f-42b6-b0e4-74ec7eb82fa6.png)
-- Atualiza Categoria ![icons8-atualizações-disponíveis-24](https://user-images.githubusercontent.com/123910027/228412118-d6345474-4c4f-42b6-b0e4-74ec7eb82fa6.png)
-- Atualiza Vendedor ![icons8-atualizações-disponíveis-24](https://user-images.githubusercontent.com/123910027/228412118-d6345474-4c4f-42b6-b0e4-74ec7eb82fa6.png)
-- Deleta Produto ![icons8-apagar-para-sempre-24](https://user-images.githubusercontent.com/123910027/228412529-99f70eef-faa4-47c5-b10e-74e0c564f1d1.png)
-- Deleta Categoria ![icons8-apagar-para-sempre-24](https://user-images.githubusercontent.com/123910027/228412529-99f70eef-faa4-47c5-b10e-74e0c564f1d1.png)
-- Deleta Vendedor ![icons8-apagar-para-sempre-24](https://user-images.githubusercontent.com/123910027/228412529-99f70eef-faa4-47c5-b10e-74e0c564f1d1.png)
+## Funcionalidades: CRUD (Create ![icons8-adicionar-24](https://user-images.githubusercontent.com/123910027/232769100-ebea4240-baa4-4239-8a76-cb1655de6bb5.png), Read ![icons8-leitura-24 (1)](https://user-images.githubusercontent.com/123910027/232769155-b691ca1b-4c23-4ae8-a774-7e720e2a30f7.png), Update ![icons8-atualizações-disponíveis-24 (1)](https://user-images.githubusercontent.com/123910027/232769223-7ba3c31d-94c9-4fa7-bdee-db0bf50a5dee.png), Delete ![icons8-remover-24](https://user-images.githubusercontent.com/123910027/232769270-4be8ca16-82a4-4b97-b898-aae2d8ccc355.png))
+
+- Cadastra Produto ![icons8-adicionar-24](https://user-images.githubusercontent.com/123910027/232767758-0aba231c-2f00-485f-b781-6fd29d25605a.png)
+- Cadastra Categoria ![icons8-adicionar-24](https://user-images.githubusercontent.com/123910027/232767758-0aba231c-2f00-485f-b781-6fd29d25605a.png)
+- Cadastra Vendedor ![icons8-adicionar-24](https://user-images.githubusercontent.com/123910027/232767758-0aba231c-2f00-485f-b781-6fd29d25605a.png)
+
+</br>
+
+- Consulta por ID de Produto ![icons8-leitura-24 (1)](https://user-images.githubusercontent.com/123910027/232768360-f1212e5f-a367-4edd-9a07-e8d95d19bb7d.png)
+
+- Consulta por ID de Categoria ![icons8-leitura-24 (1)](https://user-images.githubusercontent.com/123910027/232768531-ea201a85-7ebc-4243-9cc5-3e68406c9e43.png)
+- Consulta por ID de Vendedor ![icons8-leitura-24 (1)](https://user-images.githubusercontent.com/123910027/232768531-ea201a85-7ebc-4243-9cc5-3e68406c9e43.png)
+- Consulta por Nome de Produto ![icons8-leitura-24 (1)](https://user-images.githubusercontent.com/123910027/232768531-ea201a85-7ebc-4243-9cc5-3e68406c9e43.png)
+- Consulta por Descrição de Produto ![icons8-leitura-24 (1)](https://user-images.githubusercontent.com/123910027/232768531-ea201a85-7ebc-4243-9cc5-3e68406c9e43.png)
+- Consulta por Nome de Categoria ![icons8-leitura-24 (1)](https://user-images.githubusercontent.com/123910027/232768531-ea201a85-7ebc-4243-9cc5-3e68406c9e43.png)
+- Consulta Todos os Produtos ![icons8-leitura-24 (1)](https://user-images.githubusercontent.com/123910027/232768531-ea201a85-7ebc-4243-9cc5-3e68406c9e43.png)
+- Consulta Todas as Categorias ![icons8-leitura-24 (1)](https://user-images.githubusercontent.com/123910027/232768531-ea201a85-7ebc-4243-9cc5-3e68406c9e43.png)
+- Consulta Todos os Vendedores ![icons8-leitura-24 (1)](https://user-images.githubusercontent.com/123910027/232768531-ea201a85-7ebc-4243-9cc5-3e68406c9e43.png)
+
+</br>
+
+- Atualiza Produto ![icons8-atualizações-disponíveis-24 (1)](https://user-images.githubusercontent.com/123910027/232768932-93ce24e1-284c-4ce9-b172-65cd089df9b9.png)
+
+- Atualiza Categoria ![icons8-atualizações-disponíveis-24 (1)](https://user-images.githubusercontent.com/123910027/232768941-675b1039-090b-4822-a65f-97f20bb7f110.png)
+
+- Atualiza Vendedor ![icons8-atualizações-disponíveis-24 (1)](https://user-images.githubusercontent.com/123910027/232768976-4c38784c-75f9-4b70-92ed-ad71b3c49589.png)
+
+
+
+</br>
+
+- Deleta Produto ![icons8-remover-24](https://user-images.githubusercontent.com/123910027/232768785-afe76432-44f0-49ed-9408-504aa962dcd6.png)
+
+- Deleta Categoria ![icons8-remover-24](https://user-images.githubusercontent.com/123910027/232768794-fa0f1620-c42a-4abb-8c71-db575fa72b02.png)
+
+- Deleta Vendedor ![icons8-remover-24](https://user-images.githubusercontent.com/123910027/232768804-a949cade-ebb0-4783-8d06-9628ecc69b88.png)
+
 
 # Documentação do Grafeat
 

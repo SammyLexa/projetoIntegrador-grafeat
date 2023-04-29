@@ -85,7 +85,7 @@ MARCELO NERI (Brasil). Mapa da Nova Pobreza. Disponível em: https://cps.fgv.br/
 
 - Deleta Categoria ![icons8-remover-24](https://user-images.githubusercontent.com/123910027/232768794-fa0f1620-c42a-4abb-8c71-db575fa72b02.png)
 
-- Deleta Vendedor ![icons8-remover-24](https://user-images.githubusercontent.com/123910027/232768804-a949cade-ebb0-4783-8d06-9628ecc69b88.png)
+
 
 
 # Documentação do Grafeat
@@ -106,6 +106,7 @@ MARCELO NERI (Brasil). Mapa da Nova Pobreza. Disponível em: https://cps.fgv.br/
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/insomnia-39457E?style=for-the-badge&=insomniaColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-ffa500?style=for-the-badge&logo=mysql&logoColor=0000FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ##
 
